@@ -1,0 +1,40 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    background: #30AEF4;
+    border-radius: 5px;
+    border: none;
+    position: static;
+    width: 200px;
+    height: 60px;
+    left: 78px;
+    top: 39px;
+}
+
+button a{
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+  
+  td, th {
+    border: 1px solid #69caff;
+    text-align: left;
+    padding: 8px;
+  }
+  
+tr:nth-child(even) {
+    background-color: #30AEF4;
+    }
